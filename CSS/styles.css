@@ -86,10 +86,14 @@ figcaption{
 	}
 	.titulo-artigo h1{
 		font-size: 80px;
+		margin-left: 20px;
+		margin-right: 20px;
 
 	}
 	.titulo-artigo h2{
 		font-size: 15px;
+		margin-left: 100px;
+		margin-right: 70px;
 	}
 	iframe{
 		width: 100%;
